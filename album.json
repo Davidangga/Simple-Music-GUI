@@ -1,0 +1,107 @@
+{
+    "albums": [
+        {
+            "title" : "Red",
+            "artist" : "Taylor Swift",
+            "image_location" : "images/red_by_taylor.jpeg",
+            "genre" : 2,
+            "tracks" : [
+                {
+                    "title" : "22",
+                    "location" : "musics/22.mp3"
+                },
+
+                {
+                    "title" : "All too well",
+                    "location" : "musics/All_Too_Well.mp3"
+                },
+
+                {
+                    "title" : "Babe",
+                    "location" : "musics/Babe.mp3"
+                },
+
+                {
+                    "title" : "Begin Again",
+                    "location" : "musics/Begin_Again.mp3"
+                }
+            ]
+        },
+        {
+            "title" : "1989",
+            "artist" : "Taylor Swift",
+            "image_location" : "images/1989_by_tylor.jpeg",
+            "genre" : 3,
+            "tracks" : [
+                {
+                    "title" : "Better Man From The Vault",
+                    "location" : "musics/Better_Man_From_The_Vault.mp3"
+                },
+
+                {
+                    "title" : "Come Back Be Here",
+                    "location" : "musics/Come_Back_Be_Here.mp3"
+                },
+
+                {
+                    "title" : "Everything Has Changed",
+                    "location" : "musics/Everything_Has_Changed.mp3"
+                },
+
+                {
+                    "title" : "Girl At Home",
+                    "location" : "musics/Girl_At_Home"
+                }
+            ]
+        },
+        {
+            "title" : "Fearless",
+            "artist" : "Taylor Swift",
+            "image_location" : "images/fearless_by_tylor.jpeg",
+            "genre" : 3,
+            "tracks" : [
+                {
+                    "title" : "Red",
+                    "location" : "musics/Red.mp3"
+                },
+
+                {
+                    "title" : "Ronan",
+                    "location" : "musics/Ronan.mp3"
+                },
+
+                {
+                    "title" : "Run",
+                    "location" : "musics/Run.mp3"
+                }
+            ]
+        },
+        {
+            "title" : "Lover",
+            "artist" : "Taylor Swift",
+            "image_location" : "images/lover_by_tylor.jpeg",
+            "genre" : 1,
+            "tracks" : [
+                {
+                    "title" : "I Almost Do",
+                    "location" : "musics/I_Almost_Do.mp3"
+                },
+
+                {
+                    "title" : "I Bet You Think About Me",
+                    "location" : "musics/I_Bet_You_Think_About_Me.mp3"
+                },
+
+                {
+                    "title" : "I Know You were Trouble",
+                    "location" : "musics/I_Knew_You_Were_Trouble.mp3"
+                },
+
+                {
+                    "title" : "Message In The Bottle",
+                    "location" : "musics/Message_In_A_Bottle.mp3"
+                }
+            ]
+        }
+    ]
+}
